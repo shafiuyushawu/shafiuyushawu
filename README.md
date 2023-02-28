@@ -24,14 +24,14 @@ const aboutShafiu = {
 ```
 
 > ### **Statistics**
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shafiuyushawu&hide_title=true&show_icons=true&theme=radical&card_width=200)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shafiuyushawu&layout=compact&langs_count=6&hide=Blade&exclude_repo=mobile-menu,past-project,Questioner,StackOverflow-lite,survey-form,linterstest,Victor-et-Felix,hello-microverse,felix-and-shaili,animated-menus,adopt-an-orphan)](https://github.com/anuraghazra/github-readme-stats) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shafiuyushawu&hide_title=true&show_icons=true&theme=radical&card_width=200)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shafiuyushawu&layout=compact&langs_count=6&hide=Blade&exclude_repo=mobile-menu,past-project,Questioner,StackOverflow-lite,survey-form,linterstest,Victor-et-Felix,hello-microverse,felix-and-shaili,animated-menus,adopt-an-orphan)](https://github.com/anuraghazra/github-readme-stats)
 > ### **Contribution Graph**
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=shafiuyushawu&custom_title=SHAFIU%20YUSHAWU%27S%20CONTRIBUTION%20GRAPH&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 > ### **Familiar Technologies**
-> ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+> ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)  ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+
+
 
 > ### **Let's Connect**
 > [![](https://img.shields.io/badge/LinkedIn-Shafiu%20Yushawu-blue)](https://www.linkedin.com/in/shafiu-ibn-yushawu-610883164/)
