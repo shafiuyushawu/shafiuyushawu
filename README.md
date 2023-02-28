@@ -2,14 +2,13 @@
 
 > <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me<img src="https://github.com/Felix45/Felix45/blob/main/puki.png" align="right" width="100">
 ```JavaScript
-const aboutShafiuYushawy = {
+const aboutShafiuYushawu = {
     fullName: "Shafiu Ibn Yushawu",
     pronouns: ["He", "Him"],
     nationality: "Ghana Gh",
-    jobStatus: [""],
-    hobbies: ["Playing video games","Watching Football",
-                "Athletics", "Solving Coding Challenges"],
-    techStack:["PHP", "Python", "CSS", "JavaScript", "HTML", "SQL", "Bootstrap", "Tailwind"],
+    jobStatus: ["Open to new oportunities"],
+    hobbies: ["Playing video games","Watching Football","Solving Coding Challenges"],
+    techStack:["HTML", "CSS", "PHP", "JavaScript", "Python", "SQL", "Bootstrap", "Tailwind"],
     isWorkingNow: false,
     educationLevel: {
         bachlorsDegree: "Bsc Computer Science UG",
