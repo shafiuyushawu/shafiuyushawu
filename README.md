@@ -23,10 +23,12 @@ const aboutShafiuYushawu = {
 }
 ```
 
-**> **Statistics**
+> **Let's Connect**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Felix45&hide_title=true&show_icons=true&theme=radical&card_width=200)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felix45&layout=compact&langs_count=6&hide=Blade&exclude_repo=mobile-menu,past-project,Questioner,StackOverflow-lite,survey-form,linterstest,Victor-et-Felix,hello-microverse,felix-and-shaili,animated-menus,adopt-an-orphan)](https://github.com/anuraghazra/github-readme-stats)
-**
+[![](https://img.shields.io/badge/LinkedIn-Felix%20Ouma-blue)](https://www.linkedin.com/in/shafiu-ibn-yushawu-610883164/)
+[![](https://img.shields.io/badge/Email-Felix%20Ouma-red)](mailto:yishafiu@gmail.com)
+[![](https://img.shields.io/badge/Twitter-Felix%20Ouma-blue)](https://www.twiter.com/shafiuyushawu)
+
 
 <!--
 **shafiuyushawu/shafiuyushawu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
