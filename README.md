@@ -36,4 +36,4 @@ const aboutShafiu = {
 > ### **Let's Connect**
 > [![](https://img.shields.io/badge/LinkedIn-Shafiu%20Yushawu-blue)](https://www.linkedin.com/in/shafiu-ibn-yushawu-610883164/)
 [![](https://img.shields.io/badge/Email-Shafiu%20Yushawu-red)](mailto:yishafiu@gmail.com)
-[![](https://img.shields.io/badge/Twitter-Shafiu%20Yushawu-blue)](https://www.twiter.com/shafiuyushawu)
+[![](https://img.shields.io/badge/Twitter-Shafiu%20Yushawu-blue)](https://twitter.com/shafiuyushawu)
