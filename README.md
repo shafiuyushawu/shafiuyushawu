@@ -16,7 +16,7 @@ const aboutShafiu = {
         isCompleted: false,
     },
     telephoneNumber: "+233244630500",
-    socialMedias: ["LinkedIn", "WhatsApp", "Twitter"],
+    socialMedias: ["LinkedIn", "WhatsApp", "yishafiu@gmail.com"],
     codingEnviroment: "Github",
     nowLearning: ["Javascript and Networking"],
     lookingForNewOpportunities: true    
