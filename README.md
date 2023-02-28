@@ -16,10 +16,10 @@ const aboutShafiuYushawy = {
         fullStackDeveloper: "Microverse Inc.",
         isCompleted: false,
     },
-    telephoneNumber: "+254724603324",
+    telephoneNumber: "+233244630500",
     socialMedias: ["LinkedIn", "WhatsApp", "Twitter"],
     codingEnviroment: "Github",
-    nowLearning: ["Game Development at Udemy & Edx"],
+    nowLearning: ["Javascript and Networking"],
     lookingForNewOpportunities: true    
 }
 ```
