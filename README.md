@@ -35,6 +35,7 @@ const aboutShafiu = {
 > [![](https://img.shields.io/badge/LinkedIn-Shafiu%20Yushawu-blue)](https://www.linkedin.com/in/shafiu-ibn-yushawu-610883164/)
 [![](https://img.shields.io/badge/Email-Shafiu%20Yushawu-red)](mailto:yishafiu@gmail.com)
 [![](https://img.shields.io/badge/Twitter-Shafiu%20Yushawu-blue)](https://twitter.com/shafiuyushawu)
+[![whats](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+233244630500?text='Hi.')
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shafiuyushawu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
