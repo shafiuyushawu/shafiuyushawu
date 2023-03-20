@@ -18,7 +18,7 @@ const aboutShafiu = {
     telephoneNumber: "+233244630500",
     socialMedias: ["LinkedIn", "WhatsApp", "yishafiu@gmail.com"],
     codingEnviroment: "Github",
-    nowLearning: ["Javascript and Networking"],
+    nowLearning: ["React and Application Materials"],
     lookingForNewOpportunities: true    
 }
 ```
